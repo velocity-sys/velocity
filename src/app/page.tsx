@@ -1,4 +1,4 @@
-const mailto = "mailto:build@withvelo.city?subject=Ready%20to%20build%20the%20future%20together&body=Hi%20Velocity%20team%2C%0A%0AI%20believe%20in%20building%20a%20secure%2C%20abundant%20future%20for%20American%20energy.%0A%0A%5BIntroduce%20yourself%5D%0A%0A%5BQuick%20fun%20fact%20%2B%20any%20personal%20links%5D"
+const mailto = "mailto:buildwithvelocity@gmail.com?subject=Ready%20to%20build%20the%20future%20together&body=Hi%20Velocity%20team%2C%0A%0AI%20believe%20in%20building%20a%20secure%2C%20abundant%20future%20for%20American%20energy.%0A%0A%5BIntroduce%20yourself%5D%0A%0A%5BQuick%20fun%20fact%20%2B%20any%20personal%20links%5D"
 
 export default function Home() {
   return (
