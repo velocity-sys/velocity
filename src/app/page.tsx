@@ -8,7 +8,7 @@ export default function Home() {
           Velocity Systems
         </h1>
         <p className="text-sm text-slate-400" style={{ fontFamily: "-apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif" }}>
-          Secure abundant energy.
+          Build with velocity
         </p>
       </div>
       <a
@@ -16,7 +16,7 @@ export default function Home() {
         className="absolute bottom-8 text-sm text-slate-500 hover:text-white transition-colors duration-300"
         style={{ fontFamily: "-apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif" }}
       >
-        Join Us
+        Get in touch
       </a>
     </div>
   )
