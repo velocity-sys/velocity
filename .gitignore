@@ -1,10 +1,12 @@
 # dependencies
 node_modules/
 
+# next.js
+.next/
+
 # local only
 .env*
 
 # notes
 NOTES.md
-BUILD.md
 
